@@ -1,0 +1,18 @@
+{
+  "name": "@charlesbt/prettier-config-custom",
+  "version": "1.0.0",
+  "description": "Custom prettier config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharlesBT/prettier-config-custom.git"
+  },
+  "author": {
+    "name": "Charles Brébant",
+    "email": "charles.brebant@gmail.com",
+    "url": "https://github.com/CharlesBT"
+  },
+  "main": "prettier-config.json",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
